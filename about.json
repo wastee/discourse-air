@@ -21,16 +21,16 @@
       "love": "fea47f"
     },
     "air-dark-2": {
-      "primary": "E0E0E0",
-      "secondary": "2D2D2D",
-      "tertiary": "9A5CFD",
-      "quaternary": "71bd9f",
+      "primary": "e0e0e0",
+      "secondary": "2d2d2d",
+      "tertiary": "BE86E3",
+      "quaternary": "61ba86",
       "header_background": "202020",
-      "header_primary": "E0E0E0",
-      "highlight": "9A5CFD",
-      "danger": "D05454",
-      "success": "71BD9F",
-      "love": "C16AD7"
+      "header_primary": "e0e0e0",
+      "highlight": "BE86E3",
+      "danger": "e17e85",
+      "success": "61ba86",
+      "love": "FFEC8E"
     }
   },
   "components": ["https://github.com/jordanvidrine/discourse-category-group-boxes.git","https://github.com/discourse/discourse-color-scheme-toggle.git","https://github.com/discourse/discourse-loading-slider.git","https://github.com/discourse/discourse-clickable-topic.git","https://github.com/discourse/discourse-search-banner.git"]
