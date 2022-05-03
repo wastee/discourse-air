@@ -517,3 +517,8 @@ html body #main-outlet {
   background-color: var(--primary-low-mid);
   border-radius: 0.5em;
 }
+
+// Tee's settings
+section.about.stats {
+  display: none;
+}
