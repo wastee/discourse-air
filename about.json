@@ -8,19 +8,19 @@
   },
   "name": "Air Theme",
   "color_schemes": {
-    "air-light": {
-      "primary": "1c1c1c",
+    "air-light-2": {
+      "primary": "1A2028",
       "secondary": "F9FCFF",
-      "tertiary": "3877e5",
-      "quaternary": "7E8B93",
+      "tertiary": "61ba86",
+      "quaternary": "2093CD",
       "header_background": "F9FCFF",
       "header_primary": "122b43",
-      "highlight": "E6CB37",
-      "danger": "D05454",
-      "success": "71BD9F",
-      "love": "C16AD7"
+      "highlight": "FFEC8E",
+      "danger": "e17e85",
+      "success": "61ba86",
+      "love": "fea47f"
     },
-    "air-dark": {
+    "air-dark-2": {
       "primary": "E0E0E0",
       "secondary": "2D2D2D",
       "tertiary": "9A5CFD",
